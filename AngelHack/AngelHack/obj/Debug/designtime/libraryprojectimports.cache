@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\10\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\11\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\12\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\13\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\7\jl\arch-core-common.jar</Jar>
+    <Jar>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\8\jl\arch-lifecycle-common.jar</Jar>
+    <Jar>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\9\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\13\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Alex\Desktop\AngelHack\AngelHack\obj\Debug\lp\13.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

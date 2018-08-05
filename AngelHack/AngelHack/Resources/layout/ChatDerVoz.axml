@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/ChatDer"
+        android:orientation="horizontal"
+        android:weightSum="20">
+        <RelativeLayout
+            android:id="@+id/Bloque0"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="15">
+            <ImageView
+                android:id="@+id/ImageDerVoz"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/VideoFile"
+                android:adjustViewBounds="true"
+                android:padding="1.5dp"
+                android:scaleType="fitCenter"
+                android:background="?android:attr/selectableItemBackground" />
+        </RelativeLayout>
+        <LinearLayout
+            android:id="@+id/Bloque1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="5">
+            <RelativeLayout
+                android:id="@+id/Bloque3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <TextView
+                    android:id="@+id/TextDerVoz"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:layout_centerVertical="true"
+                    android:text="holaa"
+                    android:background="?android:attr/selectableItemBackground" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
